@@ -1,1 +1,1 @@
-A simple bank managment using C
+A simple bank account managment using C
